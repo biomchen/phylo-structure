@@ -1,7 +1,7 @@
 ### Code repository for
 
 ---
-### A Pilot Project: Understanding the Phylogenetic Community Structures of Small-bodied Mammalian Communities
+#### A Pilot Project: Understanding the Phylogenetic Community Structures of Small-bodied Mammalian Communities
 
 ---
 
